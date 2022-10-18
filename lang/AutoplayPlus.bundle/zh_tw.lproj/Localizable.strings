@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "禁用自動播放";
+"DISABLE_AUTOPLAY_DESC" = "切換它以實際禁用自動播放。";
+
+"HIDE_AUTOPLAY_SWITCH" = "隱藏自動播放開關";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "在影片控制層中隱藏自動播放開關。";

@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "Deaktiviere Autoplay";
+"DISABLE_AUTOPLAY_DESC" = "Schalten Sie dies um, um Autoplay tatsächlich zu deaktivieren.";
+
+"HIDE_AUTOPLAY_SWITCH" = "Autoplay-Schalter ausblenden";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "Autoplay-Schalter vom Videoplayer ausblenden.";

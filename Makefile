@@ -1,0 +1,16 @@
+TARGET = iphone:clang:latest:13.0
+ARCHS = arm64
+PACKAGE_VERSION = 1.0.0
+DEBUG = 0
+MIN_YOUTUBE_VERSION = 17.40.5
+
+EXTRA_CFLAGS = -DMIN_YOUTUBE_VERSION=$(MIN_YOUTUBE_VERSION)
+
+include $(THEOS)/makefiles/common.mk
+
+TWEAK_NAME = AutoplayPlus
+$(TWEAK_NAME)_FILES = Tweak.x Settings.x
+$(TWEAK_NAME)_CFLAGS = -fobjc-arc $(EXTRA_CFLAGS)
+$(TWEAK_NAME)_FRAMEWORKS = AVKit
+
+include $(THEOS_MAKE_PATH)/tweak.mk

@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "Disable Autoplay";
+"DISABLE_AUTOPLAY_DESC" = "Toggle this to actually disable Autoplay.";
+
+"HIDE_AUTOPLAY_SWITCH" = "Hide Autoplay switch";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "Hide the Autoplay switch in video controls overlay.";

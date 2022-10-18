@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "Tắt tự động phát";
+"DISABLE_AUTOPLAY_DESC" = "Chuyển sang chế độ này để thực sự tắt tính năng Tự động phát.";
+
+"HIDE_AUTOPLAY_SWITCH" = "Ẩn nút Tự động phát";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "Ẩn nút Tự động phát trong trình phát video.";

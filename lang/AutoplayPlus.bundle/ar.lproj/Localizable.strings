@@ -1,0 +1,7 @@
+// Settings
+"DISABLE_AUTOPLAY" = "تعطيل التشغيل التلقائي";
+"DISABLE_AUTOPLAY_DESC" = "قم بتبديل هذا لتعطيل التشغيل التلقائي بالفعل.";
+
+"HIDE_AUTOPLAY_SWITCH" = "إخفاء زر التشغيل التلقائي";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "إخفاء زر التشغيل التلقائي من أزرار التحكم على الفيديو.";
+

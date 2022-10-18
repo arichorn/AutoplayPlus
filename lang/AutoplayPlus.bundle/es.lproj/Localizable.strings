@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "Deshabilitar reproducción automática";
+"DISABLE_AUTOPLAY_DESC" = "Alterne esto para deshabilitar la reproducción automática.";
+
+"HIDE_AUTOPLAY_SWITCH" = "Ocultar interruptor de Reproducir automáticamente";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "Ocultar el interruptor de Reproducir automáticamente en los botones superpuestos.";

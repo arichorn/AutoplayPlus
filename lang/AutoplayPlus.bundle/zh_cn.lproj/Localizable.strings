@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "禁用自动播放";
+"DISABLE_AUTOPLAY_DESC" = "切换它以实际禁用自动播放。";
+
+"HIDE_AUTOPLAY_SWITCH" = "隐藏自动播放模式开关";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "隐藏视频播放器控制界面上的自动播放开关。";

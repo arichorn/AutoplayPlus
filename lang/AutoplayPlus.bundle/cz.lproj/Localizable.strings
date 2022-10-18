@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "Zakázat automatické přehrávání";
+"DISABLE_AUTOPLAY_DESC" = "Přepněte toto, chcete-li automatické přehrávání skutečně zakázat.";
+
+"HIDE_AUTOPLAY_SWITCH" = "Skrýt přepínač automatického přehrávání";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "Skryje přepínač automatického přehrávání v překrytí ovládání videa.";

@@ -1,0 +1,6 @@
+// Settings
+"DISABLE_AUTOPLAY" = "Désactiver la lecture automatique";
+"DISABLE_AUTOPLAY_DESC" = "Activez cette option pour désactiver la lecture automatique.";
+
+"HIDE_AUTOPLAY_SWITCH" = "Masquer l'interrupteur de lecture automatique";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "Masquer le bouton de lecture automatique dans la superposition des contrôles vidéo";

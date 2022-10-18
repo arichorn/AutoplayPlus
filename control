@@ -1,0 +1,9 @@
+Package: com.arichorn.autoplayplus
+Name: YouPiP
+Depends: mobilesubstrate, firmware (>= 13.0), firmware (>= 14.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A improved version of the Autoplay Section in the YouTube app.
+Maintainer: arichorn
+Author: arichorn
+Section: Tweaks
